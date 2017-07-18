@@ -1,0 +1,87 @@
+html{
+	background-image: url(assets\css\background.png)
+}
+.name{
+	
+	display:block;
+	width: 15%;
+	height: 80px;
+	color: white;
+	background-color: #4aaaa5;
+	padding: 1%;
+	text-align:center;
+	line-height: 90px;
+	position: relative;
+	top:-1420px;
+	left:110px;
+}
+#Background{
+	width: 100%;
+	height: 180%;
+	position: relative;
+	top: 0px;	
+}
+.header{
+	width: 100%;
+	height: 150px;
+	background-color: white;
+	position: relative;
+	top: 0px;
+}
+
+
+.link{
+	float: right;
+	position: relative;
+	right: 200px;
+	top: -1475px;
+	font-size: 150%
+}
+
+.img{
+	float: left;
+
+}
+.body{}
+	width:75%;
+	height:100%;
+	background color: white;
+	position: relative;
+	top: 50px;
+
+.text{
+
+
+
+}
+
+.list1{
+	float: left;
+
+}
+
+.list2{
+	float: left;
+}
+.name{
+	
+	display:block;
+	width: 15%;
+	height: 80px;
+	color: white;
+	background-color: #4aaaa5;
+	padding: 1%;
+	text-align:center;
+	line-height: 90px;
+	position: relative;
+	top:-1420px;
+	left:110px;
+}
+
+
+
+
+
+
+
+
